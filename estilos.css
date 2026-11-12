@@ -1,0 +1,45 @@
+body {
+  background-color: #12234f;
+  color: #ffffff;
+  font-family: Arial, sans-serif;
+  margin: 30px;
+}
+
+h1, h2 {
+  color: #ffd23f;
+  font-family: Georgia, serif;
+}
+
+h1 {
+  text-align: center;
+  font-size: 48px;
+}
+
+img {
+  margin: 10px;
+}
+
+li div {
+  background-color: #1f3a7a;
+  padding: 10px;
+  margin: 6px;
+}
+
+.destaque {
+  background-color: #ffd23f;
+  color: #12234f;
+  padding: 12px;
+  margin: 20px;
+}
+
+a {
+  color: #ffd23f;
+}
+
+/*
+Avaliação metacognitiva
+
+1. Desafio Técnico:A parte mais difícil foi fazer o CSS aparecer na página, porque no início o site continuava sem cores. Resolvi isso a ver o <link> no <head> e a confirmar que o nome do ficheiro estava igual ao estilos.css.
+2. Correção de Sintaxe:Sim, tive de voltar ao Notepad++ para corrigir o link do CSS, que tinha o nome mal escrito. Depois de guardar e carregar em F5 já funcionou.
+3. Autoria:O src serve para dizer ao browser onde está a imagem que queremos mostrar na página.
+*/
